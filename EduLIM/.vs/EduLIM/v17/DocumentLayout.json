@@ -62,8 +62,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -74,8 +78,7 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\ExampleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:13:31.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:13:31.951Z"
             },
             {
               "$type": "Document",
@@ -87,8 +90,7 @@
               "RelativeToolTip": "Infrastructure\\Jwt\\JwtExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:13:19.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:13:19.011Z"
             },
             {
               "$type": "Document",
@@ -100,8 +102,7 @@
               "RelativeToolTip": "Infrastructure\\Data\\ContextExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:13:08.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:13:08.449Z"
             },
             {
               "$type": "Document",
@@ -113,8 +114,7 @@
               "RelativeToolTip": "Domain\\Models\\Example.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:12:49.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:12:49.395Z"
             },
             {
               "$type": "Document",
@@ -126,8 +126,7 @@
               "RelativeToolTip": "Application\\Services\\ExampleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:12:30.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:12:30.194Z"
             },
             {
               "$type": "Document",
@@ -139,8 +138,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:12:16.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:12:16.961Z"
             },
             {
               "$type": "Document",
@@ -152,13 +150,12 @@
               "RelativeToolTip": "Application\\DTOs\\ExampleDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:11:49.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:11:49.081Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "EduLIM",
+              "Title": "EduLIM.csproj",
               "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\EduLIM\\EduLIM.csproj",
               "RelativeDocumentMoniker": "EduLIM\\EduLIM.csproj",
               "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\EduLIM\\EduLIM.csproj",
@@ -178,8 +175,7 @@
               "RelativeToolTip": "Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:06:30.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:06:30.174Z"
             },
             {
               "$type": "Document",
@@ -191,13 +187,12 @@
               "RelativeToolTip": "Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:04:54.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:04:54.011Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Application",
+              "Title": "Application.csproj",
               "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
               "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\Application.csproj",
@@ -206,10 +201,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-19T20:03:30.394Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -221,8 +212,7 @@
               "RelativeToolTip": "Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:03:19.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:03:19.779Z"
             },
             {
               "$type": "Document",
@@ -234,8 +224,7 @@
               "RelativeToolTip": "EduLIM\\Controllers\\ExampleController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:02:09.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:02:09.314Z"
             }
           ]
         }
