@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5480AD95-3FC1-4256-A038-3451B9237A20}|Application\\Application.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5480AD95-3FC1-4256-A038-3451B9237A20}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFD415-5018-41E0-945C-81D7107E07B4}|Infrastructure\\Infrastructure.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\infrastructure\\repositories\\examplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFD415-5018-41E0-945C-81D7107E07B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\examplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFD415-5018-41E0-945C-81D7107E07B4}|Infrastructure\\Infrastructure.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\infrastructure\\jwt\\jwtexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFD415-5018-41E0-945C-81D7107E07B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\jwt\\jwtexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFD415-5018-41E0-945C-81D7107E07B4}|Infrastructure\\Infrastructure.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\infrastructure\\data\\contextexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFD415-5018-41E0-945C-81D7107E07B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\contextexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5F4B68-25AA-44B4-81D7-58708DBB0C82}|Domain\\Domain.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\domain\\models\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5F4B68-25AA-44B4-81D7-58708DBB0C82}|Domain\\Domain.csproj|solutionrelative:domain\\models\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480AD95-3FC1-4256-A038-3451B9237A20}|Application\\Application.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\application\\services\\exampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480AD95-3FC1-4256-A038-3451B9237A20}|Application\\Application.csproj|solutionrelative:application\\services\\exampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480AD95-3FC1-4256-A038-3451B9237A20}|Application\\Application.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\application\\interfaces\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480AD95-3FC1-4256-A038-3451B9237A20}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480AD95-3FC1-4256-A038-3451B9237A20}|Application\\Application.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\application\\dtos\\exampledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480AD95-3FC1-4256-A038-3451B9237A20}|Application\\Application.csproj|solutionrelative:application\\dtos\\exampledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23B9B1C-B040-49AC-B196-DEFD627A86DC}|EduLIM\\EduLIM.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\edulim\\edulim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B23B9B1C-B040-49AC-B196-DEFD627A86DC}|EduLIM\\EduLIM.csproj|solutionrelative:edulim\\edulim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFD415-5018-41E0-945C-81D7107E07B4}|Infrastructure\\Infrastructure.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFD415-5018-41E0-945C-81D7107E07B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5F4B68-25AA-44B4-81D7-58708DBB0C82}|Domain\\Domain.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5F4B68-25AA-44B4-81D7-58708DBB0C82}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480AD95-3FC1-4256-A038-3451B9237A20}|Application\\Application.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480AD95-3FC1-4256-A038-3451B9237A20}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23B9B1C-B040-49AC-B196-DEFD627A86DC}|EduLIM\\EduLIM.csproj|d:\\desarrollo\\csharp\\desarrollos\\elimproject\\edulim\\edulim\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23B9B1C-B040-49AC-B196-DEFD627A86DC}|EduLIM\\EduLIM.csproj|solutionrelative:edulim\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExampleRepository.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Infrastructure\\Repositories\\ExampleRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ExampleRepository.cs",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Infrastructure\\Repositories\\ExampleRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ExampleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:13:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtExample.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Infrastructure\\Jwt\\JwtExample.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Jwt\\JwtExample.cs",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Infrastructure\\Jwt\\JwtExample.cs",
+              "RelativeToolTip": "Infrastructure\\Jwt\\JwtExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:13:19.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContextExample.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Infrastructure\\Data\\ContextExample.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ContextExample.cs",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Infrastructure\\Data\\ContextExample.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ContextExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:13:08.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Example.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Domain\\Models\\Example.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Example.cs",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Domain\\Models\\Example.cs",
+              "RelativeToolTip": "Domain\\Models\\Example.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:12:49.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExampleService.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\Services\\ExampleService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ExampleService.cs",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\Services\\ExampleService.cs",
+              "RelativeToolTip": "Application\\Services\\ExampleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:12:30.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IExample.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\Interfaces\\IExample.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IExample.cs",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\Interfaces\\IExample.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:12:16.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExampleDTO.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\DTOs\\ExampleDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ExampleDTO.cs",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\DTOs\\ExampleDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\ExampleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:11:49.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EduLIM",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\EduLIM\\EduLIM.csproj",
+              "RelativeDocumentMoniker": "EduLIM\\EduLIM.csproj",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\EduLIM\\EduLIM.csproj",
+              "RelativeToolTip": "EduLIM\\EduLIM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T20:09:59.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:06:30.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:04:54.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T20:03:30.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:03:19.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExampleController.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\EduLIM\\Controllers\\ExampleController.cs",
+              "RelativeDocumentMoniker": "EduLIM\\Controllers\\ExampleController.cs",
+              "ToolTip": "D:\\Desarrollo\\Csharp\\Desarrollos\\ElimProject\\EduLIM\\EduLIM\\Controllers\\ExampleController.cs",
+              "RelativeToolTip": "EduLIM\\Controllers\\ExampleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:02:09.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
