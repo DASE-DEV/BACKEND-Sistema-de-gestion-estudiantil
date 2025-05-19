@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduLIM.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d18b5d722041df4242e6ce7a68bf086490cb1573")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c8c7eb4a72ab81e97b3c723e1c81bbcfc3a64ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduLIM.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduLIM.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
