@@ -1,0 +1,6 @@
+@EduLIM.API_HostAddress = http://localhost:5003
+
+GET {{EduLIM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
