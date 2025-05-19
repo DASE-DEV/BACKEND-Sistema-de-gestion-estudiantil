@@ -16,4 +16,10 @@
     <ProjectReference Include="..\EduLIM.Infrastructure\EduLIM.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Middleware\" />
+  </ItemGroup>
+
 </Project>
