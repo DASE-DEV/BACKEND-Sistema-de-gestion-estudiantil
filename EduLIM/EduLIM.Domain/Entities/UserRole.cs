@@ -6,7 +6,7 @@ namespace EduLIM.Domain.Entities
     {
         public required int UserId { get; set; }
         public required int RoleId { get; set; }
-        public virtual User? User { get; set; }
-        public virtual Role? Role { get; set; }
+        public virtual User User { get; set; } = null!;
+        public virtual Role Role { get; set; } = null!;
     }
 }

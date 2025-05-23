@@ -10,8 +10,8 @@ namespace EduLIM.Domain.Entities
         public required string Comments { get; set; }
         public DateTime SubmissionDate { get; set; }
         public int ActivityId { get; set; }
+        public virtual Activity Activity { get; set; } = null!;
         public int StudentId { get; set; }
-        public Activity Activity { get; set; } = null!;
-        public User Student { get; set; } = null!;
+        public virtual User Student { get; set; } = null!;
     }
 }

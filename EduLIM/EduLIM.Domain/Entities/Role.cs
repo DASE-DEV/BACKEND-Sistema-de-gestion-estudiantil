@@ -8,7 +8,6 @@ namespace EduLIM.Domain.Entities
         public required string LastName { get; set; }
         public required string Email { get; set; }
         public required string Password { get; set; }
-
-        public required virtual ICollection<UserRole> Roles { get; set; }
+        public virtual ICollection<UserRole> UserRoles { get; set; } = new List<UserRole>();
     }
 }

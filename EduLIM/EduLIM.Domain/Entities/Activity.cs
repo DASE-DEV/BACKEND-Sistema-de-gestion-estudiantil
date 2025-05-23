@@ -9,6 +9,7 @@ namespace EduLIM.Domain.Entities
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
         public int SubjectId { get; set; }
-        public Subject Subject { get; set; }
+        public virtual Subject Subject { get; set; }
+        public virtual ICollection<Submission> Submissions { get; set; } = new List<Submission>();
     }
 }

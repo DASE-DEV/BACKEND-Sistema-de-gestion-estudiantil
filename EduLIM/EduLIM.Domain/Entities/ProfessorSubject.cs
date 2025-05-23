@@ -6,7 +6,7 @@ namespace EduLIM.Domain.Entities
     {
         public int ProfessorId { get; set; }
         public int SubjectId { get; set; }
-        public User Professor { get; set; }
-        public Subject Subject { get; set; }
+        public virtual User Professor { get; set; } = null!;
+        public virtual Subject Subject { get; set; } = null!;
     }
 }
