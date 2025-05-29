@@ -488,3 +488,12 @@ bin/
 obj/
 # Archivos de VS
 .vs/
+
+# Visual Studio
+**/bin/
+**/obj/
+
+# Rider, VSCode, etc. (opcional)
+.vs/
+*.user
+*.suo

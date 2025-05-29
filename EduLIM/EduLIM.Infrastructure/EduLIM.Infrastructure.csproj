@@ -1,20 +1,30 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Data\" />
-    <Folder Include="Data\Configurations\" />
-    <Folder Include="Data\Context\" />
-    <Folder Include="Data\Migrations\" />
-    <Folder Include="Extensions\" />
-    <Folder Include="Identity\" />
-    <Folder Include="Repositories\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
+	<ItemGroup>
+		<Folder Include="Data\" />
+		<Folder Include="Data\Configurations\" />
+		<Folder Include="Data\Context\" />
+		<Folder Include="Data\Migrations\" />
+		<Folder Include="Extensions\" />
+		<Folder Include="Identity\" />
+		<Folder Include="Repositories\" />
+		<Folder Include="Services\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.5" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="9.0.5" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.5" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\EduLIM.Domain\EduLIM.Domain.csproj" />
+	</ItemGroup>
 
 </Project>
